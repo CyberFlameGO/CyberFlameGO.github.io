@@ -7,7 +7,7 @@
     <?php
       echo "<h1>testing php...</h1>\n<hr/>\n";
       phpinfo ([ int $what = INFO_ALL ] ) : bool;
-      echo "\n<br/>\n<h1>done";
+      echo "\n<hr/>\n<h1>done</h1>";
     ?>
   </body>
 </html>
